@@ -39,9 +39,9 @@ Data was provided by Smart Surface Lab.
 Based on [1], concerned paperwithcode and its rank of performance.
 
 > MoCo
-> SImCLR
-> SwAV
-> BYOL
+ SImCLR
+ SwAV
+ BYOL
 
 ### 3. Embedding
 
