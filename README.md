@@ -27,10 +27,10 @@ Unfortunately, I am not so good at solid state physics. Many colleagues help me 
 
 Data was provided by Smart Surface Lab. 
 
-> More 1,000 pictures.
- Split with Validation, Test, Train. 
- Normalized by Torch likely other medical case analysis in Kaggle
- ResNet
+> 1. More 1,000 pictures.
+> 2. Split with Validation, Test, Train. 
+> 3. Normalized by Torch likely other medical case analysis in Kaggle
+> 4. Under ResNet
 
 
 
@@ -38,10 +38,10 @@ Data was provided by Smart Surface Lab.
 
 Based on [1], concerned paperwithcode and its rank of performance.
 
-> MoCo
- SImCLR
- SwAV
- BYOL
+> 1. MoCo
+> 2. SImCLR
+> 3. SwAV
+> 4. BYOL
 
 ### 3. Embedding
 
