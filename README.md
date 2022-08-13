@@ -38,10 +38,17 @@ Data was provided by Smart Surface Lab.
 
 Based on [1], concerned paperwithcode and its rank of performance.
 
-> 1. MoCo
+> 1. MoCo 
+>> [[V3,2021]](https://arxiv.org/pdf/2104.02057v4.pdf)
+>> [[V2,2020]](https://arxiv.org/pdf/2003.04297v1.pdf)
+>> [[V1,2019]](https://arxiv.org/pdf/1911.05722v3.pdf)
 > 2. SImCLR
+>> [[V2,2020]](https://arxiv.org/pdf/2006.10029v2.pdf)
+>> [[V1,2020]](https://arxiv.org/pdf/2002.05709v3.pdf)
 > 3. SwAV
+>>[2020](https://arxiv.org/pdf/2006.09882v5.pdf)
 > 4. BYOL
+>>[2020](https://arxiv.org/pdf/2006.07733v3.pdf)
 
 ### 3. Embedding
 
@@ -49,7 +56,7 @@ By Lightly, generated the embedded space and observed its tendency.
 Colleagues who is engaged in solid state physics advised. They give me some feedback then, edited some hyper-parameters or preprocessing. 
 
 ## Other references and links
- Data_from_Dropbox
+ Medical_Example_Data_from_Dropbox
 >https://www.dropbox.com/sh/jszs15w46dlwa6i/AACiRn7A4FwUkMsN2Ax_Q7M_a?dl=0
 
  Kaggles
