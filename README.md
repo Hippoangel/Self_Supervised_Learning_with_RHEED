@@ -1,6 +1,6 @@
 # Self_Supervised_Learning_with_RHEED 
 
-## What is RHEED?
+## What is RHEED
  >RHEED(Reflection High Energy Electrion Diffraction) is one of methodology to  characterize the surface of crystalline materials. RHEED shot the electron beam by its special gun to surface of materials, which makes reflected electrons. These reflected electrons collides with detector and it makes unique pattern depend on the matterials. 
 
  The patterns have been analysized by numerous metohd based on ML like PCA, really classical method to classify the matterial's pattern and understand its property. And we adopted the art-of-state method Self-Supervised Learning method developed by Google and Meta.
